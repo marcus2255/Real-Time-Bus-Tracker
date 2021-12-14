@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-## Discriptions
+## Descriptions
 This application uses MBTA bus data to determine stops between Harvard and MIT. I then added animated markers on the map to highlight the bus routes. When you click show stops between MIT and Harvard, you will see the marker move across the map.
 
 ## Future Work
